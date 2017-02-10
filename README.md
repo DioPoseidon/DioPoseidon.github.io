@@ -1,2 +1,2 @@
-# DioPoseidon1.github.io
+# DioPoseidon.github.io
 Coastal Weather Update Website
